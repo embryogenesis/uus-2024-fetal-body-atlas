@@ -1,0 +1,68 @@
+{
+  "$comment": "Verbatim mirror. `md5` is as supplied by the source repository and is recorded for transport integrity only — it is not evidence of authenticity. Verify against `sha256`, which was computed locally from the downloaded bytes.",
+  "repo": "uus-2024-fetal-body-atlas",
+  "title": "Uus et al. 2024 — population-averaged 3D T2w fetal body MRI atlas",
+  "repoDescription": "Population-averaged 3D T2w fetal body MRI atlas with ten organ ROIs and a multi-regional lung parcellation — Uus et al. 2024 — mirror of 10.1038/s41598-024-57087-x",
+  "sourceUrl": "https://gin.g-node.org/kcl_cdb/fetal_body_mri_atlas",
+  "doi": "10.1038/s41598-024-57087-x",
+  "licence": "CC0 1.0",
+  "spdxLicenceId": "CC0-1.0",
+  "attribution": "Uus, Alena; Hall, Megan; Grigorescu, Irina; Avena Zampieri, Carla; Egloff Collado, Alexia; Payette, Kelly; Matthew, Jacqueline; Kyriakopoulou, Vanessa; Hajnal, Joseph V.; Hutter, Jana; Rutherford, Mary A.; Deprez, Maria; Story, Lisa — Centre for the Developing Brain and School of Biomedical Engineering and Imaging Sciences, King's College London. Requested credit: 'SVRTK fetal MRI atlas repository, https://gin.g-node.org/kcl_cdb/fetal_body_mri_atlas'.",
+  "citation": "Uus A, Hall M, Grigorescu I, et al. Automated body organ segmentation, volumetry and population-averaged atlas for 3D motion-corrected T2-weighted fetal body MRI. Scientific Reports 14, 6637 (2024), doi:10.1038/s41598-024-57087-x.",
+  "modified": false,
+  "mirroredAt": "2026-11-23T17:14:42.887Z",
+  "sourceArticles": [
+    {
+      "id": 0,
+      "doi": "10.1038/s41598-024-57087-x",
+      "title": "Uus et al. 2024 — population-averaged 3D T2w fetal body MRI atlas",
+      "licenceAtMirrorTime": "CC0 1.0"
+    }
+  ],
+  "files": [
+    {
+      "path": "data/reo-fetal-t2w-body-atlas.nii.gz",
+      "originalName": "reo-fetal-t2w-body-atlas.nii.gz",
+      "articleId": 0,
+      "size": 0,
+      "sha256": "75e234afd07b8dc8279b94f9d3ee2469cadaa4dec5e0df1ba6a1da96bcb92dcb",
+      "md5": "20943d2f47ec5a3f0f9ecc41b32e8d28",
+      "md5MatchedFigshare": false,
+      "releaseAsset": false,
+      "downloadUrl": "https://gin.g-node.org/kcl_cdb/fetal_body_mri_atlas/raw/master/structural_3t_t2w/reo-fetal-t2w-body-atlas.nii.gz"
+    },
+    {
+      "path": "data/reo-fetal-t2w-body-atlas-mask-body_organs-10.nii.gz",
+      "originalName": "reo-fetal-t2w-body-atlas-mask-body_organs-10.nii.gz",
+      "articleId": 0,
+      "size": 0,
+      "sha256": "4b7bade32fac95a80c622f535c05f6a6f8eab8f1e32ba093cc742b1a5dc6c8b7",
+      "md5": "ab435e614d39052ef27fee328dc4f294",
+      "md5MatchedFigshare": false,
+      "releaseAsset": false,
+      "downloadUrl": "https://gin.g-node.org/kcl_cdb/fetal_body_mri_atlas/raw/master/structural_3t_t2w/reo-fetal-t2w-body-atlas-mask-body_organs-10.nii.gz"
+    },
+    {
+      "path": "data/reo-fetal-t2w-body-atlas-mask-lungs_multi-10.nii.gz",
+      "originalName": "reo-fetal-t2w-body-atlas-mask-lungs_multi-10.nii.gz",
+      "articleId": 0,
+      "size": 0,
+      "sha256": "5d81b6f91bcc2a6d6e64dfcd97a3099cfdc30cd9826f29d297b3c6983aceee54",
+      "md5": "b066ad2355afb4d7a724826306d18e6b",
+      "md5MatchedFigshare": false,
+      "releaseAsset": false,
+      "downloadUrl": "https://gin.g-node.org/kcl_cdb/fetal_body_mri_atlas/raw/master/structural_3t_t2w/reo-fetal-t2w-body-atlas-mask-lungs_multi-10.nii.gz"
+    },
+    {
+      "path": "data/ITK-SNAP-colourmap-body-organs-10.txt",
+      "originalName": "ITK-SNAP-colourmap-body-organs-10.txt",
+      "articleId": 0,
+      "size": 0,
+      "sha256": "259bdb67442cc9d9d26c3056f3c9604f76723b59d1109800ca5003f3dc86f0f5",
+      "md5": "e9e0213c023ce5489a9cd73949e84088",
+      "md5MatchedFigshare": false,
+      "releaseAsset": false,
+      "downloadUrl": "https://gin.g-node.org/kcl_cdb/fetal_body_mri_atlas/raw/master/structural_3t_t2w/ITK-SNAP-colourmap-body-organs-10.txt"
+    }
+  ]
+}

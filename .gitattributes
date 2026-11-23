@@ -1,0 +1,4 @@
+data/** binary -diff -merge
+*.am binary
+*.pdf binary
+*.tif binary
